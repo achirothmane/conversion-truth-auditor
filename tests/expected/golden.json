@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "MATCH": 2,
+    "DUPLICATE": 1,
+    "MISSING": 2,
+    "PHANTOM": 1,
+    "MISMATCH": 1,
+    "UNKNOWN": 1
+  },
+  "expected_by_key": {
+    "ORD-1001": "MATCH",
+    "ORD-1002": "DUPLICATE",
+    "ORD-1003": "MATCH",
+    "ORD-1004": "MISSING",
+    "ORD-1005": "MISMATCH",
+    "ORD-1006": "MISSING",
+    "ORD-9999": "PHANTOM",
+    "G-007": "UNKNOWN"
+  }
+}

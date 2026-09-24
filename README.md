@@ -8,7 +8,7 @@ Conversion Truth Auditor compares **GA4 purchase events against real paid orders
 
 `PASS` · `WARN` · `BLOCK_TRUST` · `UNKNOWN`
 
-![Example Conversion Truth report](assets/report-example.png)
+![Example Conversion Truth report](assets/report-example.svg)
 
 ## Why this exists
 

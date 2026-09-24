@@ -1,0 +1,7 @@
+transaction_id,event_type,timestamp,value,currency,status
+ORD-1001,purchase,2026-09-24T10:00:00Z,100.00,EUR,paid
+ORD-1002,purchase,2026-09-24T10:05:00Z,80.00,EUR,paid
+ORD-1003,purchase,2026-09-24T10:10:00Z,150.00,EUR,paid
+ORD-1004,purchase,2026-09-24T10:15:00Z,60.00,EUR,paid
+ORD-1005,purchase,2026-09-24T10:20:00Z,200.00,EUR,paid
+ORD-1006,purchase,2026-09-24T10:25:00Z,50.00,EUR,paid
